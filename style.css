@@ -46,15 +46,15 @@ body {display: table-cell;}
 .main1 {margin: 35px 20px 30px;max-width:100%;}
 .main2 {margin: 35px auto 30px;max-width:900px;padding: 0 20px;}
 #main3 { 
-background: url(/images/bgtrees.png);
+background: url();
 background-position: 0px -210px;
 background-repeat: repeat-x;
 padding: 0px 0px 180px; }
 #main3-bottom { 
-background: url();
-background-position: 0px 0px;
+background: url(/images/bgtrees.png);
+background-position: 0px -210px;
 background-repeat: repeat-x;
-padding: 0px 0px 240px; }
+padding: 0px 0px 220px;}
 .main11 {margin: 25px 20px 60px;max-width:100%;}
 .spacing1 {margin:25px;max-width:100%;}
 
